@@ -1,0 +1,4 @@
+﻿  5.c
+D:\C-Code\test_07_13\test_07_13\5.c(8,9): warning C4129: “d”: 不可识别的字符转义序列
+D:\C-Code\test_07_13\test_07_13\5.c(10,9): warning C4129: “d”: 不可识别的字符转义序列
+  test_07_13.vcxproj -> D:\C-Code\test_07_13\Debug\test_07_13.exe
