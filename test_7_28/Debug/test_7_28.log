@@ -1,0 +1,4 @@
+﻿  test3.c
+D:\Gitee\c-code\test_7_28\test3.c(41,6): warning C4133: “函数”: 从“char [7]”到“int *”的类型不兼容
+D:\Gitee\c-code\test_7_28\test3.c(28): warning C4716: “PP”: 必须返回一个值
+  test_7_28.vcxproj -> D:\C-Code\test_07_13\Debug\test_7_28.exe
